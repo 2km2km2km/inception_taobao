@@ -1,0 +1,3 @@
+classes= 10
+train=train.txt
+test=test.txt
